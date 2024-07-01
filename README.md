@@ -1,4 +1,8 @@
-# FERN Full-JS web application template
+# Silhouette of Worlds
+
+**Human language learning oriented platform**
+
+FERN template obtained from [estdiego99](https://github.com/estdiego99)
 
 ## Installation
 
