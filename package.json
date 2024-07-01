@@ -19,7 +19,7 @@
     "bootstrap": "^4.5.3",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "firebase": "^9.6.1",
+    "firebase": "^9.23.0",
     "firebase-admin": "^10.0.1",
     "firebase-functions": "^3.16.0",
     "jest": "^26.6.0",
