@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "fern-template-3e1e3"
-  }
+    "default": "fern-template-3e1e3",
+    "production": "silhouette-of-worlds"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
