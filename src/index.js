@@ -4,8 +4,8 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./index.css";
 
-import Hello from "./hello/view";
-import PokemonRoutes from "./pokemons/view";
+import Hello from "./hello/view.js";
+import PokemonRoutes from "./pokemons/view.js";
 
 ReactDOM.render(
   <Router>

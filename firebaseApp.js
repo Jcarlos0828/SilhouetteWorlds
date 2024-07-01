@@ -17,8 +17,8 @@ const firebaseConfig = {
 };
 
 // Initialize Firebase
-const app = initializeApp(firebaseConfig);
-const analytics = getAnalytics(app);
+const firebaseApp = initializeApp(firebaseConfig);
+// const analytics = getAnalytics(firebaseApp);
 // // Import the functions you need from the SDKs you need
 // import { initializeApp } from "firebase/app";
 // import { initializeFirestore } from "firebase/firestore";
@@ -44,4 +44,4 @@ const analytics = getAnalytics(app);
 // // const analytics = getAnalytics(app);
 // initializeFirestore(firebaseApp, { ignoreUndefinedProperties: true });
 
-// export { firebaseApp };
+export { firebaseApp };

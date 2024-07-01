@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 
-import axios from "../../utils/customAxios";
-import PokemonSummary from "./_summary";
+import axios from "../../utils/customAxios.js";
+import PokemonSummary from "./_summary.js";
 
 /** List of all the pokemons. */
 export default function PokemonsIndex() {

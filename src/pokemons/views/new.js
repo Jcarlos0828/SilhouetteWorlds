@@ -1,8 +1,8 @@
 import React from "react";
 import { useHistory } from "react-router-dom";
 
-import axios from "../../utils/customAxios";
-import PokemonForm from "./_form";
+import axios from "../../utils/customAxios.js";
+import PokemonForm from "./_form.js";
 
 /** View for new pokemon instance. */
 export default function PokemonsNew() {

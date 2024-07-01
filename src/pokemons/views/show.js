@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
 
-import axios from "../../utils/customAxios";
+import axios from "../../utils/customAxios.js";
 import "../type.js";
 
 export default function PokemonsShow() {

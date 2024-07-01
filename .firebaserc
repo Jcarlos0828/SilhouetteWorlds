@@ -1,6 +1,6 @@
 {
   "projects": {
-    "default": "fern-template-3e1e3",
+    "default": "silhouette-of-worlds",
     "production": "silhouette-of-worlds"
   },
   "targets": {},

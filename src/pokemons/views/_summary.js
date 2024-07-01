@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import deleteIcon from "../../assets/delete_white_24dp.svg";
 import editIcon from "../../assets/edit_white_24dp.svg";
 
-import axios from "../../utils/customAxios";
+import axios from "../../utils/customAxios.js";
 
 /**
  * @typedef {Object} PokemonSummary

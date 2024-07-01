@@ -2,10 +2,10 @@ import React from "react";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 import "./views/styles.css";
 
-import Index from "./views/index";
-import New from "./views/new";
-import Show from "./views/show";
-import Edit from "./views/edit";
+import Index from "./views/index.js";
+import New from "./views/new.js";
+import Show from "./views/show.js";
+import Edit from "./views/edit.js";
 
 /** Switch de las diferentes vistas para una entidad. */
 export default function EntitiesRoutes() {

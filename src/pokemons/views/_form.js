@@ -8,7 +8,7 @@ import {
   useFormState,
   getFormStateValues,
   handleFormStateErrors,
-} from "../../utils/customStates";
+} from "../../utils/customStates.js";
 
 /**
  * @typedef {Object} PokemonForm

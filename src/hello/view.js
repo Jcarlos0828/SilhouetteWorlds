@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 
-import axios from "../utils/customAxios";
+import axios from "../utils/customAxios.js";
 import logo from "../logo.svg";
 
 /** Don't forget to JS-Doc all your components to know what you're doing! */
